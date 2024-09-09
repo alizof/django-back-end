@@ -59,8 +59,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app.authenticator',
-    'app.core',
-    'app.cuidar'
+    'app.core'
 ]
 
 MIDDLEWARE = [
